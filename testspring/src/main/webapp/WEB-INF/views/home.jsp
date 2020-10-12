@@ -12,7 +12,7 @@
 <section class="content">
 	<div class="box">
 		<div class="box-header with-border">
-			<a href="board/register"><h3 class="box-title">게시판 글쓰기</h3></a>
+			<a href="board/register"><h3 class="box-title">게시판 글쓰기1</h3></a>
 		</div>
 	</div>
 			<div class="box-header with-border">
